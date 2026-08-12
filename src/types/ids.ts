@@ -1,0 +1,11 @@
+export type StudentId = string;
+export type SectionId = string;
+export type CourseId = string;
+export type TeacherId = string;
+export type TermId = string;
+export type PeriodId = string;
+export type RoomId = string;
+export type RequestId = string;
+export type RuleId = string;
+export type SubgroupId = string;
+export type CohortId = string;
